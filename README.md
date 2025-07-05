@@ -106,7 +106,7 @@ Compatible with:
 
 #### Clone Repository
 ```bash
-git clone https://github.com/waseem-sial/Travel-Hub-Website.git
+git clone https://github.com/Yumna-Arif/Travel-Hub-Website.git
 cd travel-hub-website
 ```
 
